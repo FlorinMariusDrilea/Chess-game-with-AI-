@@ -1,2 +1,2 @@
-# Chess-game-with-AI-
+# Chess-game-with-AI
 Java
